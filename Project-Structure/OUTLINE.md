@@ -2,6 +2,8 @@
 
 This repository outlines the recommended structure for organizing your project in the context of Metaschool's Road To Web3 Cohort - II. Proper organization enhances code maintainability and collaboration.
 
+**Note**: Most directories contain a `.placeholder` file to ensure the directory structure is maintained as Git does not track empty directories. Feel free to ignore or delete this file as you add content to the directories.
+
 ## Root Directory
 
 - **`README.md`**: Project overview, setup, and contribution guide.
